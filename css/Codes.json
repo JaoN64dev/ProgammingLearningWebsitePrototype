@@ -1,0 +1,31 @@
+
+
+{
+
+  "1": {
+    "BlocksIn":1,
+    "Blocks": ["Print"],
+    "Types": ["Func"],
+    "code": "Print( <textarea id='Block_0' name='freeform'></textarea>)"
+  },
+  "2": {
+    "BlocksIn" : 1,
+    "Blocks": ["Print"],
+    "code": "variavel Numero = 1 print(<textarea id='Block_0' name='freeform' style='resize:none;'></textarea>)",
+    "Types": ["Func"],
+    "Numero": "1",
+    "numero": "1",
+    "Var": true
+  },
+
+  "3": {
+    "blocks": "Dog",
+    "code": "Class Dog { Dog.Spawn() Dog.bark(volume=<textarea id='freeform' name='freeform'>()) }"
+  },
+  
+  "4": {
+    "code-image": "imgs/1.png",
+    "blocks": "Dog",
+    "code": "Class Dog { Dog.Spawn() Dog.MoveForward() }"
+  }
+}

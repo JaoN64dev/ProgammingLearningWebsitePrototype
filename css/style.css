@@ -1,0 +1,27 @@
+
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: rgb(255, 255, 255);
+  color:  rgb(0, 0, 0);
+}
+
+#Run{
+ padding-top: 10px;
+ background-color: rgb(123, 229, 123);
+ padding-left: 10px;
+ font-size: 30px;
+ 
+ 
+}
+
+#ProgrammingSec{
+  padding-left: 440px;
+  font-size: 30px;
+  font-family: 'arial';
+  
+}
